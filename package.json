@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/calicode/fcc_weather_passthrough#readme",
   "dependencies": {
+    "dotenv": "^2.0.0",
     "express": "^4.13.4"
   }
 }
